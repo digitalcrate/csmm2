@@ -1,8 +1,8 @@
 {
   "environment" : "dev",
   "base_url" : "https://api.csmlogistics.co.uk/",
-  "shipperId" : "S00000Y",
-  "username" : "Truecommerce",
-  "password" : "SnowOwl2019!",
+  "shipperId" : "YourShipperID",
+  "username" : "YourUsername",
+  "password" : "YourPassword",
   "debug" : false
 }
