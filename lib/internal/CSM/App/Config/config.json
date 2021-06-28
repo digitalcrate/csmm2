@@ -1,8 +1,8 @@
 {
   "environment" : "dev",
   "base_url" : "https://api.csmlogistics.co.uk/",
-  "shipperId" : "YourShipperID",
-  "username" : "YourUsername",
-  "password" : "YourPassword",
+  "shipperId" : "YourDevShipperID",
+  "username" : "YourDevUsername",
+  "password" : "YourDevPassword",
   "debug" : false
 }
